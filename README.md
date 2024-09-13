@@ -1,3 +1,11 @@
+# TODO:
+- [ ] external identity provider
+- [ ] MFA?
+- [ ] device posture checks
+- [ ] just-in-time provisioning of ziti identities?
+
+---
+
 # Zero Trust Ansible Demo
 
 But...why?
